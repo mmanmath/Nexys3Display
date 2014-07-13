@@ -1,0 +1,1 @@
+ -erf "C:\My_Designs\Nexy3New\Nexys3\compile\Nexys3.erf" -work Nexys3 -lc C:/My_Designs/Nexy3New/library.cfg -fl C:/My_Designs/Nexy3New/Nexys3/projlib.cfg -o C:/My_Designs/Nexy3New/Nexys3/compile -l "Nexys3" -sve   -O2 
